@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/51373/DisplayWpfTrees
+END
+App.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/51373/DisplayWpfTrees/App.xaml
+END
+MainWindow.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/51622/DisplayWpfTrees/MainWindow.xaml.cs
+END
+App.xaml.cs
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/51373/DisplayWpfTrees/App.xaml.cs
+END
+DisplayWpfTrees.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51622/DisplayWpfTrees/DisplayWpfTrees.csproj
+END
+MyLogicalTreeHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/51622/DisplayWpfTrees/MyLogicalTreeHelper.cs
+END
+MainWindow.xaml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/51622/DisplayWpfTrees/MainWindow.xaml
+END
+MyVisualTreeHelper.cs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/51623/DisplayWpfTrees/MyVisualTreeHelper.cs
+END
